@@ -7,9 +7,13 @@ import { useEffect, useRef } from "react";
 
 const navLink = [
   {
-    path: "/home",
+    path: "/",
     display: "Home",
   },
+  // {
+  //   path: "/home",
+  //   display: "Home",
+  // },
   {
     path: "/doctors",
     display: "Find a Doctor",
